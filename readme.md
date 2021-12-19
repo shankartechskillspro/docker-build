@@ -1,6 +1,3 @@
-# Build Instructions
-
-![Build Status](https://microsoftdigitallearning.visualstudio.com/Courseware/_apis/build/status/MicrosoftLearning.Docker-Build?branchName=master)
 
 ## Requirements
 
@@ -38,6 +35,3 @@
     node package.js --version 1.0.0 --course INF99X
     ```
 
-## Docker Image
-
-If you do not have Node, Pandoc Git installed on your local machine, we have a Docker Hub image with the required versions of each tool located at: [microsoftlearning/markdown-build](https://hub.docker.com/r/microsoftlearning/markdown-build)
